@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "files": [
+    {
+      "path": "assets/Viewer-D18fg_Uz.js",
+      "bytes": 223043,
+      "sha256": "507499e87e46694b4681ee89e37282d237c2b4f01dacb0af811bbef7201102f8"
+    },
+    {
+      "path": "assets/index-BKa9cmJX.css",
+      "bytes": 8981,
+      "sha256": "732f3d175d7873c5b2b00ee9c92352e8f9296a4fc8dc9553bbb34b6a9dad7df1"
+    },
+    {
+      "path": "assets/index-D6pe19Nf.js",
+      "bytes": 210836,
+      "sha256": "4af3a6e6c6b756aef8a774fd809d31c27e44b9cea396729c3f719f4b51b5dfc5"
+    },
+    {
+      "path": "assets/modelLoader-BRtZG8qb.js",
+      "bytes": 75383,
+      "sha256": "10d3dc055861e48998846ee48304eb481694f47e8745d2e6f9a6ebbde966b9be"
+    },
+    {
+      "path": "assets/three.module-8wuO-LMu.js",
+      "bytes": 734075,
+      "sha256": "e139877012d671b18bb4e3733d85e73a73613e7e3f7508db2fa37e5ba72a9c8e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 834,
+      "sha256": "5b85262a061ecb6f7e3835be6c8b786870ccd1f538579ea1557858b856478f50"
+    }
+  ]
+}
