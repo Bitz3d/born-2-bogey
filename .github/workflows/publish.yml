@@ -37,3 +37,6 @@ jobs:
       - name: Deploy GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          # Two first deployments made no progress within the default 10 minutes; allow 30.
+          timeout: 1800000
