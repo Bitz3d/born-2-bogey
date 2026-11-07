@@ -1,0 +1,69 @@
+{
+ "schemaVersion": 1,
+ "activeModel": "born-2-bogey-light",
+ "models": [
+  {
+   "id": "born-2-bogey-light",
+   "name": "Born 2 Bogey — wersja lekka",
+   "description": "Cała scena: cztery postacie, kosz z turkusowym +1, biały dysk z logo B2B i podstawa. Geometria bez uproszczeń, pakowanie bezstratne (meshopt i gzip). Tekstury postaci są zmniejszone do 2048 px, żeby scena zmieściła się w pamięci telefonu.",
+   "thumbnail": "previews/born-2-bogey-front.jpg",
+   "triangles": 3471396,
+   "modelScale": 1,
+   "transport": {
+    "encoding": "gzip-parts",
+    "parts": [
+     {
+      "url": "models/born-2-bogey-light-lossless.glb.gz.part01",
+      "bytes": 50331648,
+      "sha256": "84027e48cb34644eb513bfe5fae5ef6ac507226ccd4fd59a8c3aaae8bb914e14"
+     },
+     {
+      "url": "models/born-2-bogey-light-lossless.glb.gz.part02",
+      "bytes": 32435784,
+      "sha256": "118ff6846a1d9739b154be837d2ed0ae6629ce228c6e788ab3d7a29f0ff55599"
+     }
+    ],
+    "compressedBytes": 82767432,
+    "gzipSha256": "0cbf873aba94f96e750693f9c13bb51711d211a617ec7641ba45a5d1f1679cd2",
+    "decodedBytes": 86754448,
+    "decodedSha256": "3b28fe19003cec2b4b9b0a8aaf93032e6ad9bba8b1a79b8e28430774fe4b6a59"
+   },
+   "version": "born-2-bogey-web-v001-light-lossless",
+   "appearance": "Czeka na akceptację wyglądu."
+  },
+  {
+   "id": "born-2-bogey-full",
+   "name": "Born 2 Bogey — pełna jakość",
+   "description": "Cała scena: cztery postacie, kosz z turkusowym +1, biały dysk z logo B2B i podstawa. Geometria bez uproszczeń, pakowanie bezstratne (meshopt i gzip). Tekstury postaci w pełnej rozdzielczości 4096 px. Cięższa wersja, najlepiej na komputerze.",
+   "thumbnail": "previews/born-2-bogey-front.jpg",
+   "triangles": 3471396,
+   "modelScale": 1,
+   "transport": {
+    "encoding": "gzip-parts",
+    "parts": [
+     {
+      "url": "models/born-2-bogey-full-lossless.glb.gz.part01",
+      "bytes": 50331648,
+      "sha256": "3f01f3acb91d60f94aec2f3e2491310c8fea375db6b839d337f1aee50976e4a9"
+     },
+     {
+      "url": "models/born-2-bogey-full-lossless.glb.gz.part02",
+      "bytes": 50331648,
+      "sha256": "713d173bc85c5ea83815b147f8834eebd96586b1a8deb663389d44aa8eaa1f5f"
+     },
+     {
+      "url": "models/born-2-bogey-full-lossless.glb.gz.part03",
+      "bytes": 47417518,
+      "sha256": "5f4fc21724c831f7877214288ccd2255f9342de83150a2260a1369302c193b37"
+     }
+    ],
+    "compressedBytes": 148080814,
+    "gzipSha256": "3e815d53450a6df0ad3bbbec552154585a62e8f4d34515e54ef2a94969f5cf1e",
+    "decodedBytes": 152306588,
+    "decodedSha256": "eb452595293c00634e2d0f66c84faf503cb5d6a97e45033517c880f0624066ba"
+   },
+   "version": "born-2-bogey-web-v001-full-lossless",
+   "appearance": "Czeka na akceptację wyglądu."
+  }
+ ]
+}
