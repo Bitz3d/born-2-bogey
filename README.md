@@ -1,15 +1,15 @@
 # Born 2 Bogey — 3D scene
 
-A public, static GitHub Pages site that shows the **Born 2 Bogey** diorama in 3D. The scene is a deadpan 1980s cop-show “bogey crime scene” with four figures, an Albatross basket with a turquoise +1, a white disc with the B2B logo, and the base with the logo.
+A public, static GitHub Pages site that shows the **Born 2 Bogey** diorama in 3D. The scene is a deadpan 1980s cop-show “bogey crime scene” with four figures (one wears a trucker cap with the Datsun badge), an Albatross basket with a turquoise +1, a white disc with the B2B logo, and the base with the logo.
 
 The page has one viewport and one native **Wersja** select. The model downloads only after the visitor clicks **Uruchom 3D**. After that, changing the variant cancels any stale load, releases the previous scene and loads the new variant into the same viewport.
 
 | Variant | Model ID | Figure textures | Download |
 | --- | --- | --- | --- |
-| Lekka — na telefon (default) | `born-2-bogey-light` | 2048 px | 82.8 MB |
-| Pełna jakość — na komputer | `born-2-bogey-full` | 4096 px, as in the source scene | 148.1 MB |
+| Lekka — na telefon (default) | `born-2-bogey-light` | 2048 px | 84.0 MB |
+| Pełna jakość — na komputer | `born-2-bogey-full` | 4096 px, as in the source scene | 149.3 MB |
 
-Both variants have the same unsimplified geometry: 3,471,396 triangles.
+Both variants have the same unsimplified geometry: 3,488,964 triangles.
 
 Direct link to a variant: `https://bitz3d.github.io/born-2-bogey/?model=born-2-bogey-full`. Unknown IDs show a 404 message and download no model data.
 

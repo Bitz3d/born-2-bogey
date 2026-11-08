@@ -6,63 +6,63 @@
    "id": "born-2-bogey-light",
    "name": "Born 2 Bogey — wersja lekka",
    "description": "Cała scena: cztery postacie, kosz z turkusowym +1, biały dysk z logo B2B i podstawa. Geometria bez uproszczeń, pakowanie bezstratne (meshopt i gzip). Tekstury postaci są zmniejszone do 2048 px, żeby scena zmieściła się w pamięci telefonu.",
-   "thumbnail": "previews/born-2-bogey-front.jpg",
-   "triangles": 3471396,
+   "thumbnail": "previews/born-2-bogey-v002-front.jpg",
+   "triangles": 3488964,
    "modelScale": 1,
    "transport": {
     "encoding": "gzip-parts",
     "parts": [
      {
-      "url": "models/born-2-bogey-light-lossless.glb.gz.part01",
+      "url": "models/born-2-bogey-v002-light-lossless.glb.gz.part01",
       "bytes": 50331648,
-      "sha256": "84027e48cb34644eb513bfe5fae5ef6ac507226ccd4fd59a8c3aaae8bb914e14"
+      "sha256": "7034ab12cc829317228427459249a3f70d225ba2835d71a5f8939c178b6944ec"
      },
      {
-      "url": "models/born-2-bogey-light-lossless.glb.gz.part02",
-      "bytes": 32435784,
-      "sha256": "118ff6846a1d9739b154be837d2ed0ae6629ce228c6e788ab3d7a29f0ff55599"
+      "url": "models/born-2-bogey-v002-light-lossless.glb.gz.part02",
+      "bytes": 33638255,
+      "sha256": "667fb91aa916aee98e82eedbf564100721b09f94ef2e2c558cfba9486ee5f0c0"
      }
     ],
-    "compressedBytes": 82767432,
-    "gzipSha256": "0cbf873aba94f96e750693f9c13bb51711d211a617ec7641ba45a5d1f1679cd2",
-    "decodedBytes": 86754448,
-    "decodedSha256": "3b28fe19003cec2b4b9b0a8aaf93032e6ad9bba8b1a79b8e28430774fe4b6a59"
+    "compressedBytes": 83969903,
+    "gzipSha256": "2cfbef4716372a41092b8c52fc0ed37b3eb39e2dcba1121d2e60d14f4e671470",
+    "decodedBytes": 88011984,
+    "decodedSha256": "3036a7b4a3722dd10234c85c805ed277d6327f0839c798332ff11ba0671982da"
    },
-   "version": "born-2-bogey-web-v001-light-lossless",
+   "version": "born-2-bogey-web-v002-light-lossless",
    "appearance": "Czeka na akceptację wyglądu."
   },
   {
    "id": "born-2-bogey-full",
    "name": "Born 2 Bogey — pełna jakość",
    "description": "Cała scena: cztery postacie, kosz z turkusowym +1, biały dysk z logo B2B i podstawa. Geometria bez uproszczeń, pakowanie bezstratne (meshopt i gzip). Tekstury postaci w pełnej rozdzielczości 4096 px. Cięższa wersja, najlepiej na komputerze.",
-   "thumbnail": "previews/born-2-bogey-front.jpg",
-   "triangles": 3471396,
+   "thumbnail": "previews/born-2-bogey-v002-front.jpg",
+   "triangles": 3488964,
    "modelScale": 1,
    "transport": {
     "encoding": "gzip-parts",
     "parts": [
      {
-      "url": "models/born-2-bogey-full-lossless.glb.gz.part01",
+      "url": "models/born-2-bogey-v002-full-lossless.glb.gz.part01",
       "bytes": 50331648,
-      "sha256": "3f01f3acb91d60f94aec2f3e2491310c8fea375db6b839d337f1aee50976e4a9"
+      "sha256": "713e64768d39a85ee063ac2c936f9a99482e0d7fe6bd02316879fb0e9d832a6d"
      },
      {
-      "url": "models/born-2-bogey-full-lossless.glb.gz.part02",
+      "url": "models/born-2-bogey-v002-full-lossless.glb.gz.part02",
       "bytes": 50331648,
-      "sha256": "713d173bc85c5ea83815b147f8834eebd96586b1a8deb663389d44aa8eaa1f5f"
+      "sha256": "7b4a5d1fc335cd7b4535885db58ee6655520dd8fcb83d8d183ec908ce223a8fc"
      },
      {
-      "url": "models/born-2-bogey-full-lossless.glb.gz.part03",
-      "bytes": 47417518,
-      "sha256": "5f4fc21724c831f7877214288ccd2255f9342de83150a2260a1369302c193b37"
+      "url": "models/born-2-bogey-v002-full-lossless.glb.gz.part03",
+      "bytes": 48621273,
+      "sha256": "c5d11a179ef7ac423e3cdf859d8279d066677bedff0df6f52e040f78f8090b43"
      }
     ],
-    "compressedBytes": 148080814,
-    "gzipSha256": "3e815d53450a6df0ad3bbbec552154585a62e8f4d34515e54ef2a94969f5cf1e",
-    "decodedBytes": 152306588,
-    "decodedSha256": "eb452595293c00634e2d0f66c84faf503cb5d6a97e45033517c880f0624066ba"
+    "compressedBytes": 149284569,
+    "gzipSha256": "ff22997edad41dd44ba745e76adb787f8f7fed902e200e83762f7845999135dd",
+    "decodedBytes": 153564124,
+    "decodedSha256": "f98a948387779c5834e2fc5404498d4378d1317e98ffb25f027635871a9850be"
    },
-   "version": "born-2-bogey-web-v001-full-lossless",
+   "version": "born-2-bogey-web-v002-full-lossless",
    "appearance": "Czeka na akceptację wyglądu."
   }
  ]
